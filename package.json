@@ -1,0 +1,18 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "Pong",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shael de Pinto",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Pong"
+  },
+  "keywords": [
+    "Pong"
+  ]
+}
